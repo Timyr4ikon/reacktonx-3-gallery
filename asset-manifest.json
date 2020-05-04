@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reacktonx-3-gallery/static/css/main.da3c22f9.chunk.css",
+    "main.js": "/reacktonx-3-gallery/static/js/main.65583ec6.chunk.js",
+    "main.js.map": "/reacktonx-3-gallery/static/js/main.65583ec6.chunk.js.map",
+    "runtime-main.js": "/reacktonx-3-gallery/static/js/runtime-main.0306a0f3.js",
+    "runtime-main.js.map": "/reacktonx-3-gallery/static/js/runtime-main.0306a0f3.js.map",
+    "static/css/2.f87e9f44.chunk.css": "/reacktonx-3-gallery/static/css/2.f87e9f44.chunk.css",
+    "static/js/2.bde42588.chunk.js": "/reacktonx-3-gallery/static/js/2.bde42588.chunk.js",
+    "static/js/2.bde42588.chunk.js.map": "/reacktonx-3-gallery/static/js/2.bde42588.chunk.js.map",
+    "index.html": "/reacktonx-3-gallery/index.html",
+    "precache-manifest.8761b344adabf2f2794d4f1622667854.js": "/reacktonx-3-gallery/precache-manifest.8761b344adabf2f2794d4f1622667854.js",
+    "service-worker.js": "/reacktonx-3-gallery/service-worker.js",
+    "static/css/2.f87e9f44.chunk.css.map": "/reacktonx-3-gallery/static/css/2.f87e9f44.chunk.css.map",
+    "static/css/main.da3c22f9.chunk.css.map": "/reacktonx-3-gallery/static/css/main.da3c22f9.chunk.css.map",
+    "static/js/2.bde42588.chunk.js.LICENSE.txt": "/reacktonx-3-gallery/static/js/2.bde42588.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0306a0f3.js",
+    "static/css/2.f87e9f44.chunk.css",
+    "static/js/2.bde42588.chunk.js",
+    "static/css/main.da3c22f9.chunk.css",
+    "static/js/main.65583ec6.chunk.js"
+  ]
+}
